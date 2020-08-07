@@ -1,8 +1,8 @@
 # disarli-php-env
 sample env via so and file
 
-#install
+## install
 composer install --prefer-dist
 
-#run
+## run
 php sample/env-sample.php
