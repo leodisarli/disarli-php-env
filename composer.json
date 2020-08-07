@@ -1,0 +1,12 @@
+{
+    "name": "disarli/php-env",
+    "authors": [
+        {
+            "name": "Leo Di Sarli",
+            "email": "leosarli@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.1"
+    }
+}
